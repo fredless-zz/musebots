@@ -10,7 +10,8 @@
 
 Generates chord progressions & pitch probabilities based upon a corpus of Miles Davis tunes (pre-Bitches Brew)
 
-type:	
+type:
+
 	-harmony
 
 ## platform ##
@@ -24,12 +25,14 @@ does not generate audio, only messages.
 ## messages ##
 
 sends: 
+
 	-notepool (current chord); 
 	-pcprob (pitch set probabilities for current notepool); 
 	-plan/chords (chords in next phrase);
 	-plan/chordDuration (relative durations of each chord in next phrase)
 
 receives: 
+
 	-section (to store and recall current section’s progression); 
 	-phraselength (length in measures of current phrase)
 	-tala (additive rhythm of 2 & 3); 
