@@ -1,6 +1,6 @@
 # Arne Eigenfeldt's MilesChordBOT #
 
-[Executable](https://www.sfu.ca/musebots/Musebot_Test_Suite/Musebots/Harmony_generators/ae_MethenyChordBOT.zip)
+[Executable](https://www.sfu.ca/musebots/Musebot_Test_Suite/Musebots/Harmony_generators/ae_MilesChordBOT.zip)
 
 ## version ##
 
