@@ -1,0 +1,13 @@
+# Ignore Mac executables
+*.app
+
+# Ignore Win executables
+*.exe
+*.mxf
+resources/*
+
+# Ignore audio files for now
+# Add extensions if necessary
+**/*.wav
+**/*.aif
+**/*.aiff
