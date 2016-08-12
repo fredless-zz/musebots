@@ -11,3 +11,6 @@ resources/*
 **/*.wav
 **/*.aif
 **/*.aiff
+
+# Ignore samplebanks
+SampleBanks/*
