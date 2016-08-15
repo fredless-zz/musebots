@@ -4,7 +4,8 @@
 # Ignore Win executables
 *.exe
 *.mxf
-resources/*
+*/resources/**
+resources/**
 
 # Ignore audio files for now
 # Add extensions if necessary
