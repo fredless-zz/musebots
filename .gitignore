@@ -12,6 +12,11 @@ resources/**
 **/*.wav
 **/*.aif
 **/*.aiff
+**/*.mp3
 
 # Ignore samplebanks
 SampleBanks/*
+audio/*
+
+# Ignore config.txt file because it keeps changing
+config.txt
